@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Hello World
 
-You can use the [editor on GitHub](https://github.com/malangfilehost/disqusMANUALYadded/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+MFHost is portal to download more free software with direct download. We have commit users to use opensource software
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
@@ -11,9 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# MALANG FILEHOST | MFHOST | MALANG-FILEHOST | 2016 |2017 | 2018
+
 
 - Bulleted
 - List
